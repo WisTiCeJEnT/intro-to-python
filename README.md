@@ -7,9 +7,9 @@
 - [x] Print() / Input() `day1`
 - [x] Basic Data types (int, float, string, ...) `day1`
 - [x] Condition (if, else) `day1`
-- [ ] While loop
-- [ ] For loop
-- [ ] Function (def)
+- [x] While loop `day2`
+- [x] For loop `day2`
+- [x] Function (def) `day2`
 - [ ] Scope
 - [ ] List
 - [ ] Dictionary
