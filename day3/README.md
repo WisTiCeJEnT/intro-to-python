@@ -48,25 +48,34 @@ Output:
 80.25
 ```
 
-#### 3. 
-> 
+#### 3. First running up
+> รับข้อมูลตัวเลข N จำนวน มากที่สุดเป็นอันดับสอง
 
-Input:
+Input1:
 ```
-40
-20
-5
-15
+4
+23
+52
+256
+-10
+```
+Output1:
+```
+52
+```
+Input2:
+```
+4
+12
 14
+14
+13
 ```
-Output:
+Output2:
 ```
-40 is too HIGH
-20 is too HIGH
-5 is too LOW
-15 is too HIGH
-14 is CORRECT!
+13
 ```
 <br/>
 <br/>
+
 
