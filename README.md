@@ -10,8 +10,9 @@
 - [x] While loop `day2`
 - [x] For loop `day2`
 - [x] Function (def) `day2`
-- [ ] Scope
-- [ ] List
+- [x] Scope `day3`
+- [x] List `day3`
 - [ ] Dictionary
 - [ ] Module
+- [x] Application (File management) `day3`
 - [ ] Application (TBA)
