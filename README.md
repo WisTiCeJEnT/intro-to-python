@@ -12,7 +12,7 @@
 - [x] Function (def) `day2`
 - [x] Scope `day3`
 - [x] List `day3`
-- [ ] Dictionary
+- [ ] ~~Dictionary~~
 - [ ] Module
 - [x] Application (File management) `day3`
 - [ ] Application (TBA)
