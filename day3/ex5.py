@@ -11,3 +11,4 @@ for i in range(len(a)):
     # print(a[i])
     b.append(int(a[i]))
 print(b)
+print(min(b), max(b), sum(b)/len(b))

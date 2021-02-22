@@ -13,6 +13,5 @@
 - [x] Scope `day3`
 - [x] List `day3`
 - [ ] ~~Dictionary~~
-- [ ] Module
-- [x] Application (File management) `day3`
-- [ ] Application (TBA)
+- [x] Module `day4`
+- [x] Application (File management) `day3, day4`
